@@ -12,8 +12,8 @@ Person.prototype.greet = function () {
 };
 
 
-const person1 = new Person("saeed", "asghar", 25);
-const person2 = new Person("reza", "ali", 30);
+const person1 = new Person("saeed", "asghar", 25)
+const person2 = new Person("reza", "ali", 30)
 
 
 person1.greet()
